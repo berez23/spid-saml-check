@@ -19,7 +19,7 @@
     "moment": "^2.21.0",
     "moments": "0.0.2",
     "node-forge": "^0.10.0",
-    "openid-client": "^2.4.5",
+    "openid-client": "^3.0.0",
     "request": "^2.87.0",
     "sha256": "^0.2.0",
     "uuidjs": "^4.0.3",

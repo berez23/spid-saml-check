@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.04
 MAINTAINER Michele D'Amico, michele.damico@agid.gov.it
 
 # Create user to run validator (not root for security reason!)

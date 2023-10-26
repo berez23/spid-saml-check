@@ -34,7 +34,7 @@
     "bootstrap": "4.0.0-beta.3",
     "chart.js": "^2.7.2",
     "circular-json": "^0.5.1",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.2.0",
     "flag-icon-css": "2.9.0",
     "font-awesome": "4.7.0",
     "history": "4.7.2",
